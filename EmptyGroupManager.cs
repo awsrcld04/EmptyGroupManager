@@ -40,7 +40,7 @@ namespace EmptyGroupManager
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("EmptyGroupManager v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("EmptyGroupManager v1.0");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
