@@ -157,8 +157,6 @@ namespace EmptyGroupManager
 
                     funcToEventLog("EmptyGroupManager", "EmptyGroupManager started", 1001);
 
-                    funcProgramRegistryTag("EmptyGroupManager");
-
                     EmptyGroupParams newParams = funcParseConfigFile(objCMDArguments2);                   
 
                     funcManageEmptyGroups(newParams);
